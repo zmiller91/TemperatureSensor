@@ -1,0 +1,13 @@
+# Build and output files
+build/
+dist/
+
+# MPLAB X user-specific files
+nbproject/private/
+
+# Optional: ignore generated Makefiles if not hand-editing
+Makefile
+nbproject/Makefile-*
+
+# Temporary MCC metadata
+mcc-manifest-*.yml
