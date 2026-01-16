@@ -158,7 +158,7 @@ void task(void) {
     
     I2C_EN_SetLow();
     LED_EN_SetLow();
-    set_sleep_period(FIFTEEN_SECONDS);
+    set_sleep_period(THIRTY_MINUTES);
 }
 
 int main(void) {
